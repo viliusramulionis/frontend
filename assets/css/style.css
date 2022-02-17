@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "BwStretch";
+    src: url("../fonts/BwStretch-Regular.woff") format("woff");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "BwStretch";
+    src: url("../fonts/BwStretch-Black.woff") format("woff");
+    font-weight: 800;
+}
+
+h1 {
+    font-family: "BwStretch";
+    font-weight: 800;
+}
