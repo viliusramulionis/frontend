@@ -10,6 +10,7 @@ Run this command in selected directory after downloading source code
 After dependencies installation run a command:
 
 > npm run dev
+
 Server should be succesfully running
 
 
